@@ -34,7 +34,7 @@ The challenge was to build a responsive age calculator application that allows u
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [You can see my solution here](https://www.frontendmentor.io/solutions/age-calculator-app-solution--jtljBky7N)
 - Live Site URL: [ahmedbernawi.github.io](https://ahmedbernawi.github.io/age-calculator-app/)
 
 ## My process
